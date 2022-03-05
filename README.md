@@ -1,2 +1,3 @@
-# shared_wallet_solidity
-Learning how to implement smart contracts with solidty
+# Shared wallet
+
+Just learning how to implement smart contracts with solidity, following along with some online courses.
